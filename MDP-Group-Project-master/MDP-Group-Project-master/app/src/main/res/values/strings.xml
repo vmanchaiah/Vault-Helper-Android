@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MDP Group Project</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vaulthelper">VaultHelper</string>
+    <string name="login">Login</string>
+    <string name="vaulthelpertitle">"    VaultHelper"</string>
+    <string name="username_e_mail">Username (E-mail)</string>
+    <string name="password">Password</string>
+    <string name="btnBill">Add New Bill</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="bill_due_date">Bill due date..</string>
+    <string name="bill_amount_due">Bill amount due..</string>
+    <string name="comments">Comments..</string>
+    <string name="upcoming_bills">Upcoming Bills</string>
+</resources>
